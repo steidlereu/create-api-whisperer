@@ -1,0 +1,40 @@
+{
+  "license": "personal",
+  "website": {
+    "title": "Hello World",
+    "copyright": "2023 Hello World GmbH. All rights reserved.",
+    "logo": "PATH_TO",
+    "favicon": "PATH_TO",
+    "styles": "PATH_TO"
+  },
+  "navigation": {
+    "main": [
+    ],
+    "footer": [
+    ]
+  },
+  "products": [
+  ],
+  "home": {
+    "title": "Welcome to Hello World Developer Portal",
+    "description": "Your central hub for exploring APIs, documentation, and tools to build and integrate your applications seamlessly.",
+    "logo": "PATH_TO"
+  },
+  "about": {
+    "companyName": "Hello World GmbH",
+    "companyAddress": {
+      "streetAddress": "Musterstraße 1",
+      "locality": "Munich",
+      "region": "Bavaria",
+      "postalCode": "80800",
+      "country": "Germany",
+      "countryCode": "DE"
+    },
+    "companyEmail": "your.email@example.com",
+    "companyPhone": "+123 456 7890",
+    "companyRegistrationNumber": "Your Company Registration Number",
+    "companyTaxId": "123456789",
+    "representative": "Apple Cider",
+    "representativePosition": "CEO"
+  }
+}

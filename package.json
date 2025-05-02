@@ -1,0 +1,32 @@
+{
+  "name": "create-api-whisperer",
+  "version": "0.0.1",
+  "description": "Free software to create a developer portal and API portal for exploring APIs, documentation, and tools.",
+  "author": "Felix Steidler <info@steidler.eu>",
+  "contributors": [
+    {
+      "name": "Felix Steidler",
+      "email": "info@steidler.eu",
+      "url": "https://www.steidler.eu/"
+    }
+  ],
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "keywords": [
+    "developer-portal",
+    "api-portal",
+    "API",
+    "documentation",
+    "developer-tools"
+  ],
+  "bin": {
+    "create-api-whisperer": "./index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "api-whisperer": "^0.0.1",
+    "fs-extra": "^11.3.0",
+    "inquirer": "^9.3.7",
+    "install": "^0.13.0",
+    "npm": "^11.3.0"
+  }
+}
