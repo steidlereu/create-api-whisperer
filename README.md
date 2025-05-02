@@ -1,12 +1,29 @@
-# API Whisperer - Developer portal
+# API Whisperer – Developer Portal
 
-This project was generated with [create-api-whisperer](https://github.com/steidlereu/create-api-whisperer) and ist based on [API Whisperer](https://github.com/steidlereu/api-whisperer).
+This project was generated with [create-api-whisperer](https://github.com/steidlereu/create-api-whisperer) and contains [API Whisperer](https://github.com/steidlereu/api-whisperer).
 
-## Getting Started & Further help
+## Documentation
 
-See [API Whisperer Documentation](https://docs.api-whisperer.io).
+See the [API Whisperer Documentation](https://docs.api-whisperer.io).
 
-### 📄 License
+## Overwrites
+
+- `config.json`: Configure your developer portal  
+- `/content`: Place your individual content here, such as *.md files or OpenAPI specs
+
+## Deployment
+
+### Web Hosting
+
+Copy your `config.json` and your `/content` folder into `/app/assets`, then upload your app to any shared web hosting provider of your choice.
+
+### Docker
+
+Use either [Docker Compose](https://docs.docker.com/compose/) with the command  
+`docker compose up --build --force-recreate --detach`  
+or use [Kubernetes](https://kubernetes.io/) with a ConfigMap to mount `config.json` and `/content`.
+
+## 📄 License
 
 This project is licensed under a [Customized MIT License](./LICENSE.txt)!
 
@@ -17,6 +34,12 @@ This project is licensed under a [Customized MIT License](./LICENSE.txt)!
 
 Please refer to the [LICENSE.txt](./LICENSE.txt) file for full terms and conditions.
 
-## Further help
+## Further Help
 
-See [API Whisperer Project](https://github.com/steidlereu/api-whisperer).
+See the [API Whisperer Project](https://github.com/steidlereu/api-whisperer).
+
+## Powered by [Steidler IT-Consulting](https://www.steidler.eu/)
+
+![Steidler IT-Consulting](https://www.steidler.eu/content/images/2023/09/png2.png)
+
+Made with ❤️ in Europe!
