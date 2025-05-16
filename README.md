@@ -4,7 +4,7 @@ This project was generated with [create-api-whisperer](https://github.com/steidl
 
 ## Documentation
 
-See the [API Whisperer Documentation](https://docs.api-whisperer.io).
+See the [API Whisperer Documentation](https://api-whisperer.io).
 
 ## Overwrites
 
