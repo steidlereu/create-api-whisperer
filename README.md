@@ -1,4 +1,6 @@
-# API Whisperer – Developer Portal
+# API Whisperer – Developer Portal Software
+
+![Static Badge](https://img.shields.io/badge/release-v1.1.0-blue)
 
 This project was generated with [create-api-whisperer](https://github.com/steidlereu/create-api-whisperer) and contains [API Whisperer](https://github.com/steidlereu/api-whisperer).
 
