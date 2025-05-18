@@ -1,6 +1,6 @@
 {
   "name": "create-api-whisperer",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Free software to create a developer portal and API portal for exploring APIs, documentation, and tools.",
   "author": "Felix Steidler <info@steidler.eu>",
   "contributors": [
@@ -24,7 +24,7 @@
   "type": "module",
   "private": false,
   "dependencies": {
-    "api-whisperer": "^1.1.0",
+    "api-whisperer": "^1.2.0",
     "fs-extra": "^11.3.0",
     "inquirer": "^9.3.7",
     "install": "^0.13.0",
